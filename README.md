@@ -19,6 +19,6 @@ react-native start
 
 react-native run-android
 
-#https://kylewbanks.com/blog/react-native-tutorial-part-1-hello-react
-#https://kylewbanks.com/blog/react-native-tutorial-part-2-designing-a-calculator
-#https://kylewbanks.com/blog/react-native-tutorial-part-3-developing-a-calculator
+https://kylewbanks.com/blog/react-native-tutorial-part-1-hello-react
+https://kylewbanks.com/blog/react-native-tutorial-part-2-designing-a-calculator
+https://kylewbanks.com/blog/react-native-tutorial-part-3-developing-a-calculator
